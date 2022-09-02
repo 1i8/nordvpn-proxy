@@ -16,4 +16,4 @@ done
 # Give it a moment.
 sleep 1
 
-/rusty_socks /rusty.toml
+/server
